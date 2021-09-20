@@ -52,6 +52,9 @@ h2{
     display: flex;
     align-items: center;
 }
+.service{
+    padding-block: 7%;
+}
 .mainfooter{
     padding-block: 5%;
     text-align: center;
