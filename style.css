@@ -55,6 +55,14 @@ h2{
 .service{
     padding-block: 7%;
 }
+.box{
+    width: 250px;
+    border: 2px solid;
+    
+    border-radius: 3%;
+    border-color: #005f73;
+    padding: 10px 10px 20px 20px;
+}
 .mainfooter{
     padding-block: 5%;
     text-align: center;
